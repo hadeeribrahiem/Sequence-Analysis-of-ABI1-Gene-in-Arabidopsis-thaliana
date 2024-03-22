@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
 
 # Move the file format fna to the folder marie_curie
-mv wildtype.fna ~/marie_curie
+mv wildtype.fna ~/marie_curie/
 
 # Remove the duplication 
 rm wildtype.gbk.1
